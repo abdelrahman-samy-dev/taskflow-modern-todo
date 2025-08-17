@@ -22,11 +22,11 @@
     <tr>
       <td align="center">
         <strong>🌞 Light Theme</strong><br/>
-        <img src="https://via.placeholder.com/350x200/f8fafc/1f2937?text=Light+Theme" alt="Light Theme" width="350"/>
+        <img src="./assets/images/light-theme.png" alt="Light Theme" width="350"/>
       </td>
       <td align="center">
         <strong>🌙 Dark Theme</strong><br/>
-        <img src="https://via.placeholder.com/350x200/0f172a/f1f5f9?text=Dark+Theme" alt="Dark Theme" width="350"/>
+        <img src="./assets/images/dark-theme.png" alt="Dark Theme" width="350"/>
       </td>
     </tr>
   </table>
